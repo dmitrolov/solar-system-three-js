@@ -1,1 +1,1 @@
-# solar-system-three-js
+# three.js training
